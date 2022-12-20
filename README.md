@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Back-End Developer
-- 🌱 I’m currently learning Adobe XD
+- 🌱 I’m currently learning Vuejs
 - 📫 How to reach me: https://www.linkedin.com/in/m%C3%A1rio-gomes-b86230190/
 - ⚡ Fun fact: Front-End Developer
 
